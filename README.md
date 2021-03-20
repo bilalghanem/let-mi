@@ -3,8 +3,7 @@ This is the data repository of the Let-Mi dataset that is proposed in the paper:
 ## Let-Mi: An Arabic Levantine Twitter Dataset for Misogynistic Language
 
 
-Please fill this form: [Let-Mi data](https://forms.gle/pKywZKRHBoLkEPqBA), to have an access to the full corpus. 
-
+Please fill this form: [Let-Mi data](https://forms.gle/pKywZKRHBoLkEPqBA), to have access to the full corpus. 
 
 
 Citation:
